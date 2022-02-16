@@ -1,4 +1,3 @@
 # Arquiteura - [Nome da Aplicação]
 
-```mermaid
-flowchart
+![Imagem do diagrama](https://user-images.githubusercontent.com/97189917/154343587-23692064-8b42-41b7-9fd7-850bd6a4ad4f.png)

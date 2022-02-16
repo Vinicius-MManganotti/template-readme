@@ -21,6 +21,7 @@ Se possível, listar casos de uso. Por exemplo:
 - [Componentes](www.linkparacomponentes.com)
 - [Arquiteura](www.linkparaarquiteura.com)  
 - [Changelog](www.linkparachangelog.com)
+- [Página do Oráculo](www.paginadooraculo.com)
 
 ## 📑 Sumário
 - [Nome da sua aplicação](#nome-da-sua-aplicao)

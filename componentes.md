@@ -1,6 +1,6 @@
 # Componentes - [Nome da aplicação]
 
-Elencar neste documento todos os componentes/tecnologias utilizadas para criar a aplicação. 
+`Elencar neste documento todos os componentes/tecnologias utilizadas para criar a aplicação. Além disso, detalhar como cada componente está sendo utilizado na aplicação.`
 
 | Componente      | Versão |
 |-----------------|--------|
